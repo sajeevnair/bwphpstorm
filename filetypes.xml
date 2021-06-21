@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern=".*rc" type="Shell Script" />
+      <removed_mapping pattern=".*.rc" approved="true" type="Shell Script" />
+      <removed_mapping pattern=".commonrc" approved="true" type="Shell Script" />
+    </extensionMap>
+  </component>
+</application>
