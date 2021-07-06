@@ -1,0 +1,5 @@
+<keymap version="1" name="macOS System Shortcuts copy" parent="macOS System Shortcuts">
+  <action id="GotoAction" />
+  <action id="RerunTests" />
+  <action id="SaveAs" />
+</keymap>
