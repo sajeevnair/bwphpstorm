@@ -1,0 +1,12 @@
+<code_scheme name="Default" version="173">
+  <codeStyleSettings language="PHP">
+    <arrangement>
+      <groups>
+        <group>
+          <type>GETTERS_AND_SETTERS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
+    </arrangement>
+  </codeStyleSettings>
+</code_scheme>
