@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="prodaws" id="7c1be51c-e110-4a19-b5e0-0fcf60f4bcd1" port="22" nameFormat="DESCRIPTIVE" username="sajeevnair" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="c9" id="fcd5a959-2d50-4924-be27-774949b67df1" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
