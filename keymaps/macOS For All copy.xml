@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS For All copy" parent="macOS For All">
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+</keymap>
