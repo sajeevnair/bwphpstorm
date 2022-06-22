@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;},&quot;serverAliveInterval&quot;:300}" host="c9" id="fcd5a959-2d50-4924-be27-774949b67df1" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;hostKeyVerifier&quot;:{&quot;hashKnownHosts&quot;:true,&quot;stringHostKeyChecking&quot;:&quot;ASK&quot;},&quot;serverAliveInterval&quot;:300}" host="c9new" id="4a647577-0158-43d7-8a36-3d74ce66a53f" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
